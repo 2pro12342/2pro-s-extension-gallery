@@ -4,6 +4,22 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
 
 ## Table of Contents 
 
+- GUI's
+-   Panel GUI
+-   Console GUI
+-   Leaderboard GUI (Coming Soon)
+-   Achievement GUI (Coming Soon)
+- Inputs
+-   Mouse+ (Coming Soon)
+-   USB Inputs (Coming Soon)
+-   Battery (Coming Soon)
+-   Navigations (Coming Soon)
+-   Notify (Coming Soon)
+- Tools
+-   System Tools (Coming Soon)
+-   Browser Tools (Coming Soon)
+-   App Tools (Coming Soon)
+- Scratch Expansion (Coming Soon)
 
 ## GUI's
 
@@ -23,7 +39,7 @@ Leaderboard GUI is kind of like Panel GUI, but it can keep scores, players, info
 (Coming Soon)
 
 ### Achievement GUI 
-Achievement GUI is kind of like Panel GUI, but it can store Achievements. in the Achievement GUI extension, you can; Create/Delete an Achievement, Show/Hide an Achievement, Set an Animation to play/stop an Achievement, Achievement GUI ID's, Achievement ID's, Achievement content (Image, Title, Description), Achievement Sections, Create/Delete an Animation, Animation ID's, 
+Achievement GUI is kind of like Panel GUI, but it can store Achievements. in the Achievement GUI extension, you can; Create/Delete an Achievement, Show/Hide an Achievement, Set an Animation to play/stop an Achievement, Achievement GUI ID's, Achievement ID's, Achievement content (Image, Title, Description), Achievement Sections, Create/Delete an Animation, Animation ID's, and more. 
 
 (Coming Soon)
 
