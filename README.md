@@ -5,20 +5,20 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
 ## Table of Contents 
 
 - GUI's
--   Panel GUI
--   Console GUI
--   Leaderboard GUI (Coming Soon)
--   Achievement GUI (Coming Soon)
+  - Panel GUI
+  - Console GUI
+  - Leaderboard GUI (Coming Soon)
+  - Achievement GUI (Coming Soon)
 - Inputs
--   Mouse+ (Coming Soon)
--   USB Inputs (Coming Soon)
--   Battery (Coming Soon)
--   Navigations (Coming Soon)
--   Notify (Coming Soon)
+  - Mouse+ (Coming Soon)
+  - USB Inputs (Coming Soon)
+  - Battery (Coming Soon)
+  - Navigations (Coming Soon)
+  - Notify (Coming Soon)
 - Tools
--   System Tools (Coming Soon)
--   Browser Tools (Coming Soon)
--   App Tools (Coming Soon)
+  - System Tools (Coming Soon)
+  - Browser Tools (Coming Soon)
+  - App Tools (Coming Soon)
 - Scratch Expansion (Coming Soon)
 
 ## GUI's
