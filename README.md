@@ -24,7 +24,8 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
   - Browser Tools (Coming Soon)
   - App Tools (Coming Soon)
 - Scratch Expansion (Coming Soon)
-- 
+- Others
+  - MMO System (Coming Soon)
 
 ## GUI's
 
