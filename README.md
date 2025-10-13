@@ -19,6 +19,7 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
   - Battery (Coming Soon)
   - Navigations (Coming Soon)
   - Notify (Coming Soon)
+  - Saving & Storing Data
 - Tools
   - System Tools (Coming Soon)
   - Browser Tools (Coming Soon)
@@ -41,13 +42,18 @@ Console GUI is kind of like Panel GUI, but it can be used as an In-Game Console,
 
 Current Version: 1.0 
 
+### Achievement GUI 
+Achievement GUI is kind of like Panel GUI, but it can store Achievements and show tasks. in the Achievement GUI extension, you can; Create/Delete an Achievement, Show/Hide an Achievement, Set an Animation to play/stop an Achievement, Achievement GUI ID's, Achievement ID's, Achievement content (Image, Title, Description), Achievement Sections, Create/Delete an Animation, Animation ID's, Tasks, Unlock Achievement Detection, Task completion, GUI Modes, and more. 
+
+(Coming October 5th - 15th) 
+
 ### Leaderboard GUI 
 Leaderboard GUI is kind of like Panel GUI, but it can keep scores, players, information, variables, and more. This extension uses features like the other GUI extensions which are: Moving the GUI, Resizing the GUI, Closing the GUI, Can See the Title of the GUI, and more. You can create/delete a offline leaderboard or an online leaderboard.  
 
 (Coming Late October)
 
-### Achievement GUI 
-Achievement GUI is kind of like Panel GUI, but it can store Achievements and show tasks. in the Achievement GUI extension, you can; Create/Delete an Achievement, Show/Hide an Achievement, Set an Animation to play/stop an Achievement, Achievement GUI ID's, Achievement ID's, Achievement content (Image, Title, Description), Achievement Sections, Create/Delete an Animation, Animation ID's, Tasks, Unlock Achievement Detection, Task completion, GUI Modes, and more. 
+### Saving & Storing Data
+This extension allows users to save data, store data, delete data, load data, encrypt/decrypt data, and more. 
 
-(Coming October 5th - 10th)
+Current Version: 1.0
 
