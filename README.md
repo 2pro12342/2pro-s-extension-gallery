@@ -11,8 +11,9 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
 - GUI's
   - Panel GUI
   - Console GUI
-  - Leaderboard GUI (Coming Soon)
   - Achievement GUI (Coming Soon)
+  - Leaderboard GUI (Coming Soon)
+  - Code Panel GUI (Coming Soon)
 - Inputs
   - Mouse+ (Coming Soon)
   - Conputer Inputs (Coming Soon)
@@ -20,6 +21,7 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
   - Navigations (Coming Soon)
   - Notify (Coming Soon)
   - Saving & Storing Data
+  - Code Builder (Coming Soon)
 - Tools
   - System Tools (Coming Soon)
   - Browser Tools (Coming Soon)
@@ -55,5 +57,18 @@ Leaderboard GUI is kind of like Panel GUI, but it can keep scores, players, info
 ### Saving & Storing Data
 This extension allows users to save data, store data, delete data, load data, encrypt/decrypt data, and more. 
 
-Current Version: 1.0
+Warning: Does not use online or cloud storage so, this data will not save when page is reloaded or closed.
+
+Current Version: 1.0 
+
+### Code Builder 
+This extension helps users code better. There are blocks like a code editor, code injection (HTML, CSS, JS), advanced coding injection (Python, Shell, Rust, and more), custom code injection, instert GUI (buttons, sliders, drop-downs, check boxes, and more), insert text, positioning of GUI and UI, controls of GUI and UI, fonts for text, styling, and more. Code with advanced blocks or simple blocks. 
+
+(Coming October 13th - 15th)
+
+### Code Panel GUI 
+This extension helps users code better. This extension works with the Code Builder extension. Opens a better coding GUI/editor than the Code Builder panel. has a lot more features like file saving, file editing, tools, shortcuts, Dev Mode, themes, a console, Tab Manager, and more. The GUI works like the other GUI Panels (draggable, close-able, resize-able), but there is a new button that is Fullscreen. Fullscreen will put the GUI to fit the whole page. 
+
+(Coming October 15th)
+
 
