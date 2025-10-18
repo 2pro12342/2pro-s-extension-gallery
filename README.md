@@ -4,7 +4,13 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
 
 ## Note 
 - If extension is corrupted or doesn't load, (optional: Save) refresh the page.
-- Guides for Extensions are Coming Soon/Being worked on. 
+- Guides for Extensions are Coming Soon/Being worked on.
+
+## How to Use 
+1: Go to PenguinMod or TurboWarp
+2: Click “Add Extension” → “Custom Extension” → “Load from URL or Code”. 
+(File: Click "Load from File" instead of “Load from URL or Code”)
+3: Paste this entire code block in and click Add. 
 
 ## Table of Contents 
 
@@ -47,7 +53,7 @@ Current Version: 1.0
 ### Achievement GUI 
 Achievement GUI is kind of like Panel GUI, but it can store Achievements and show tasks. in the Achievement GUI extension, you can; Create/Delete an Achievement, Show/Hide an Achievement, Set an Animation to play/stop an Achievement, Achievement GUI ID's, Achievement ID's, Achievement content (Image, Title, Description), Achievement Sections, Create/Delete an Animation, Animation ID's, Tasks, Unlock Achievement Detection, Task completion, GUI Modes, and more. 
 
-(Coming October 5th - 15th) 
+(Coming October 10th - 20th) 
 
 ### Leaderboard GUI 
 Leaderboard GUI is kind of like Panel GUI, but it can keep scores, players, information, variables, and more. This extension uses features like the other GUI extensions which are: Moving the GUI, Resizing the GUI, Closing the GUI, Can See the Title of the GUI, and more. You can create/delete a offline leaderboard or an online leaderboard.  
@@ -64,11 +70,11 @@ Current Version: 1.0
 ### Code Builder 
 This extension helps users code better. There are blocks like a code editor, code injection (HTML, CSS, JS), advanced coding injection (Python, Shell, Rust, and more), custom code injection, instert GUI (buttons, sliders, drop-downs, check boxes, and more), insert text, positioning of GUI and UI, controls of GUI and UI, fonts for text, styling, and more. Code with advanced blocks or simple blocks. 
 
-(Coming October 13th - 15th)
+Current Version: 1.0
 
 ### Code Panel GUI 
 This extension helps users code better. This extension works with the Code Builder extension. Opens a better coding GUI/editor than the Code Builder panel. has a lot more features like file saving, file editing, tools, shortcuts, Dev Mode, themes, a console, Tab Manager, and more. The GUI works like the other GUI Panels (draggable, close-able, resize-able), but there is a new button that is Fullscreen. Fullscreen will put the GUI to fit the whole page. 
 
-(Coming October 15th)
+Current Version: 1.0
 
 
