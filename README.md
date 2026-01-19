@@ -26,8 +26,10 @@ These extensions help coders improve their own Scratch/TurboWarp/Penguinmod proj
   - Battery (Coming Soon)
   - Navigations (Coming Soon)
   - Notify (Coming Soon)
-  - Saving & Storing Data
   - Code Builder (Coming Soon)
+- Data Management
+  - File & folder Storing
+  - Saving & Storing Data
 - Tools
   - System Tools (Coming Soon)
   - Browser Tools (Coming Soon)
@@ -53,12 +55,12 @@ Current Version: 1.0
 ### Achievement GUI 
 Achievement GUI is kind of like Panel GUI, but it can store Achievements and show tasks. in the Achievement GUI extension, you can; Create/Delete an Achievement, Show/Hide an Achievement, Set an Animation to play/stop an Achievement, Achievement GUI ID's, Achievement ID's, Achievement content (Image, Title, Description), Achievement Sections, Create/Delete an Animation, Animation ID's, Tasks, Unlock Achievement Detection, Task completion, GUI Modes, and more. 
 
-(Coming October 10th - 20th) 
+(Coming Late January 2026) 
 
 ### Leaderboard GUI 
 Leaderboard GUI is kind of like Panel GUI, but it can keep scores, players, information, variables, and more. This extension uses features like the other GUI extensions which are: Moving the GUI, Resizing the GUI, Closing the GUI, Can See the Title of the GUI, and more. You can create/delete a offline leaderboard or an online leaderboard.  
 
-(Coming Late October)
+(Coming Late Febuary 2026)
 
 ### Saving & Storing Data
 This extension allows users to save data, store data, delete data, load data, encrypt/decrypt data, and more. 
@@ -75,6 +77,11 @@ Current Version: 1.0
 ### Code Panel GUI 
 This extension helps users code better. This extension works with the Code Builder extension. Opens a better coding GUI/editor than the Code Builder panel. has a lot more features like file saving, file editing, tools, shortcuts, Dev Mode, themes, a console, Tab Manager, and more. The GUI works like the other GUI Panels (draggable, close-able, resize-able), but there is a new button that is Fullscreen. Fullscreen will put the GUI to fit the whole page. 
 
+Current Version: 1.0 
+
+### File & folder Storing 
+This extension allows coders to upload files an folders in the project. Once created a new folder or uploaded a folder, you can create or upload many files in the folder. You can run the file in a new tab, new window, or a redirect as a blob url, data url, about:blank, or normal. 
+
+WARNING: the block `[Open file: (file.html) from folder: (folder1) mode: [Blob, data, about:blank, normal] in [new tab, new window, redirect]]` with Mode `normal` will break the editor so (During Testing), use in a tested packaged project or save before use because the mode `Normal` Sets the page to the html code ran. 
+
 Current Version: 1.0
-
-
